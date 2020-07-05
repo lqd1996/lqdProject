@@ -19,7 +19,7 @@ public class HelloController {
 		Map<String, Object> map2 = new HashMap<String, Object>();
 		String arg2 = new String();
 		String string2 = new String();
-		return "Integer";
+		return "String";
 
 	}
 }
